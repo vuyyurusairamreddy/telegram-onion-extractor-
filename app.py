@@ -15,8 +15,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration - API credentials hardcoded (replace these with your own)
-API_ID = 25262584  # Your API ID
-API_HASH = "5204bfadc791602a212284c49a9646a9"  # Your API hash
+API_ID = 25262555  # Your API ID
+API_HASH = "5224bfadc781602a211184c49a9646a8"  # Your API hash
 CHANNEL_USERNAME = 'toronionlinks'  # The channel to monitor
 OUTPUT_FILE = 'onion_links.json'
 LAST_MESSAGE_ID_FILE = 'last_message_id.txt'
